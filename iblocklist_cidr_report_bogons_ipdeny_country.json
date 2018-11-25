@@ -1,0 +1,42 @@
+[
+	{
+		"code": "CZ",
+		"value": 2048
+	},
+	{
+		"code": "DE",
+		"value": 13312
+	},
+	{
+		"code": "ES",
+		"value": 4096
+	},
+	{
+		"code": "FR",
+		"value": 1024
+	},
+	{
+		"code": "GB",
+		"value": 3072
+	},
+	{
+		"code": "NO",
+		"value": 1024
+	},
+	{
+		"code": "RO",
+		"value": 3072
+	},
+	{
+		"code": "RU",
+		"value": 20480
+	},
+	{
+		"code": "SI",
+		"value": 1024
+	},
+	{
+		"code": "TR",
+		"value": 2048
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"code": "AE",
+		"value": 128
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 604867784
+	},
+	{
+		"code": "CY",
+		"value": 160
+	},
+	{
+		"code": "FR",
+		"value": 96
+	},
+	{
+		"code": "GB",
+		"value": 64
+	},
+	{
+		"code": "ID",
+		"value": 1024
+	},
+	{
+		"code": "IT",
+		"value": 32
+	},
+	{
+		"code": "MU",
+		"value": 7297792
+	},
+	{
+		"code": "SE",
+		"value": 32
+	}
+]
